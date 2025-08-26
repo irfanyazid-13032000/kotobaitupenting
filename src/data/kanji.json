@@ -1,0 +1,1143 @@
+[
+  {
+    "kanji":"誰か",
+    "arti":"seseorang",
+    "romaji":"dareka"
+  },
+  {
+    "kanji":"包み込む",
+    "arti":"to wrap up, to envelop, to embrace",
+    "romaji":"tsutsumikomu"
+  },
+  {
+    "kanji":"大きな",
+    "arti":"besar",
+    "romaji":"ookina"
+  },
+  {
+    "kanji":"小さな",
+    "arti":"kecil",
+    "romaji":"chiisana"
+  },
+  {
+    "kanji":"新しい",
+    "arti":"baru",
+    "romaji":"atarashii"
+  },
+  {
+    "kanji":"古い",
+    "arti":"lama",
+    "romaji":"furui"
+  },
+  {
+    "kanji":"高い",
+    "arti":"tinggi, mahal",
+    "romaji":"takai"
+  },
+  {
+    "kanji":"低い",
+    "arti":"rendah",
+    "romaji":"hikui"
+  },
+  {
+    "kanji":"長い",
+    "arti":"panjang",
+    "romaji":"nagai"
+  },
+  {
+    "kanji":"短い",
+    "arti":"pendek",
+    "romaji":"mijikai"
+  },
+  {
+    "kanji":"速い",
+    "arti":"cepat",
+    "romaji":"hayai"
+  },
+  {
+    "kanji":"遅い",
+    "arti":"lambat",
+    "romaji":"osoi"
+  },
+  {
+    "kanji":"暑い",
+    "arti":"panas (cuaca)",
+    "romaji":"atsui"
+  },
+  {
+    "kanji":"寒い",
+    "arti":"dingin (cuaca)",
+    "romaji":"samui"
+  },
+  {
+    "kanji":"熱い",
+    "arti":"panas (benda)",
+    "romaji":"atsui"
+  },
+  {
+    "kanji":"冷たい",
+    "arti":"dingin (benda)",
+    "romaji":"tsumetai"
+  },
+  {
+    "kanji":"明るい",
+    "arti":"terang, cerah",
+    "romaji":"akarui"
+  },
+  {
+    "kanji":"暗い",
+    "arti":"gelap",
+    "romaji":"kurai"
+  },
+  {
+    "kanji":"重い",
+    "arti":"berat",
+    "romaji":"omoi"
+  },
+  {
+    "kanji":"軽い",
+    "arti":"ringan",
+    "romaji":"karui"
+  },
+  {
+    "kanji":"強い",
+    "arti":"kuat",
+    "romaji":"tsuyoi"
+  },
+  {
+    "kanji":"弱い",
+    "arti":"lemah",
+    "romaji":"yowai"
+  },
+  {
+    "kanji":"美しい",
+    "arti":"indah, cantik",
+    "romaji":"utsukushii"
+  },
+  {
+    "kanji":"汚い",
+    "arti":"kotor, jorok",
+    "romaji":"kitanai"
+  },
+  {
+    "kanji":"静かな",
+    "arti":"tenang, sepi",
+    "romaji":"shizukana"
+  },
+  {
+    "kanji":"賑やかな",
+    "arti":"ramai, meriah",
+    "romaji":"nigiyakana"
+  },
+  {
+    "kanji":"便利な",
+    "arti":"praktis, nyaman, mudah",
+    "romaji":"benrina"
+  },
+  {
+    "kanji":"不便な",
+    "arti":"tidak praktis, tidak nyaman, tidak mudah",
+    "romaji":"fubenna"
+  },
+  {
+    "kanji":"有名な",
+    "arti":"terkenal",
+    "romaji":"yuumeina"
+  },
+  {
+    "kanji":"親切な",
+    "arti":"baik hati, ramah, baik (sifat)",
+    "romaji":"shinsetsuna"
+  },
+  {
+    "kanji":"元気な",
+    "arti":"sehat, bersemangat",
+    "romaji":"genkina"
+  },
+  {
+    "kanji":"大切な",
+    "arti":"penting, berharga",
+    "romaji":"taisetsuna"
+  },
+  {
+    "kanji":"自由な",
+    "arti":"bebas",
+    "romaji":"jiyuuna"
+  },
+  {
+    "kanji":"正しい",
+    "arti":"benar, tepat",
+    "romaji":"tadashii"
+  },
+  {
+    "kanji":"大丈夫な",
+    "arti":"tidak apa-apa, aman, sehat",
+    "romaji":"daijoubuna"
+  },
+  {
+    "kanji":"危ない",
+    "arti":"berbahaya",
+    "romaji":"abunai"
+  },
+  {
+    "kanji":"面白い",
+    "arti":"menarik, lucu",
+    "romaji":"omoshiroi"
+  },
+  {
+    "kanji":"難しい",
+    "arti":"sulit, susah", 
+    "romaji":"muzukashii"
+  },
+  {
+    "kanji":"易しい",
+    "arti":"mudah, gampang",
+    "romaji":"yasashii"
+  },
+  {
+    "kanji":"忙しい",
+    "arti":"sibuk",
+    "romaji":"isogashii"
+  },
+  {
+    "kanji":"楽しい",
+    "arti":"menyenangkan, seru",
+    "romaji":"tanoshii"
+  },
+  {
+    "kanji":"嬉しい",
+    "arti":"senang, bahagia",
+    "romaji":"ureshii"
+  },
+  {
+    "kanji":"悲しい",
+    "arti":"sedih",
+    "romaji":"kanashii"
+  },
+  {
+    "kanji":"疲れた",
+    "arti":"lelah",
+    "romaji":"tsukareta"
+  },
+  {
+    "kanji":"寂しい",
+    "arti":"sepi, kesepian",
+    "romaji":"sabishii"
+  },
+  {
+    "kanji":"怖い",
+    "arti":"takut, menakutkan",
+    "romaji":"kowai"
+  },
+  {
+    "kanji":"優しい",
+    "arti":"lembut, baik hati",
+    "romaji":"yasashii"
+  },
+  {
+    "kanji":"厳しい",
+    "arti":"keras, tegas",
+    "romaji":"kibishii"
+  },
+  {
+    "kanji":"面倒な",
+    "arti":"merepotkan, merepotkan",
+    "romaji":"mendouna"
+  },
+  {
+    "kanji":"不思議な",
+    "arti":"aneh, misterius, ajaib",
+    "romaji":"fushigina"
+  },
+  {
+    "kanji":"大人しい",
+    "arti":"penurut, pendiam",
+    "romaji":"otonashii"
+  },
+  {
+    "kanji":"正直な",
+    "arti":"jujur",
+    "romaji":"shoujikina"
+  },
+  {
+    "kanji":"我慢強い",
+    "arti":"sabar, tahan banting",
+    "romaji":"gamandzuyoi"
+  },
+  {
+    "kanji":"積極的な",
+    "arti":"proaktif, positif",
+    "romaji":"sekkyokuteki na"
+  },
+  {
+    "kanji":"始まった",
+    "arti":"dimulai, telah dimulai",
+    "romaji":"hajimatta"
+  },
+  {
+    "kanji":"終わった",
+    "arti":"selesai, telah selesai",
+    "romaji":"owatta"
+  },
+  {
+    "kanji":"続いた",
+    "arti":"berlanjut, telah berlanjut",
+    "romaji":"tsuzuita"
+  },
+  {
+    "kanji":"変わった",
+    "arti":"berubah, telah berubah",
+    "romaji":"kawatta"
+  },
+  {
+    "kanji":"決まった",
+    "arti":"diputuskan, telah diputuskan",
+    "romaji":"kimatta"
+  },
+  {
+    "kanji":"慣れた",
+    "arti":"terbiasa, telah terbiasa",
+    "romaji":"nareta"
+  },
+  {
+    "kanji":"覚えた",
+    "arti":"mengingat, telah mengingat",
+    "romaji":"oboeta"
+  },
+  {
+    "kanji":"忘れた",
+    "arti":"lupa, telah lupa",
+    "romaji":"wasureta"
+  },
+  {
+    "kanji":"思い出した",
+    "arti":"teringat, telah teringat",
+    "romaji":"omoidashta"
+  },
+  {
+    "kanji":"見つけた",
+    "arti":"menemukan, telah menemukan",
+    "romaji":"mitsuketa"
+  },
+  {
+    "kanji":"助かった",
+    "arti":"tertolong, telah tertolong",
+    "romaji":"tasukatta"
+  },
+  {
+    "kanji":"失敗した",
+    "arti":"gagal, telah gagal",
+    "romaji":"shippai shita"
+  },
+  {
+    "kanji":"成功した",
+    "arti":"berhasil, telah berhasil",
+    "romaji":"seikou shita"
+  },
+  {
+    "kanji":"結婚した",
+    "arti":"menikah, telah menikah",
+    "romaji":"kekkon shita"
+  },
+  {
+    "kanji":"離婚した",
+    "arti":"bercerai, telah bercerai",
+    "romaji":"rikon shita"
+  },
+  {
+    "kanji":"出発した",
+    "arti":"berangkat, telah berangkat",
+    "romaji":"shuppatsu shita"
+  },
+  {
+    "kanji":"到着した",
+    "arti":"tiba, telah tiba",
+    "romaji":"touchaku shita"
+  },
+  {
+    "kanji":"参加した",
+    "arti":"ikut serta, telah ikut serta",
+    "romaji":"sanka shita"
+  },
+  {
+    "kanji":"準備した",
+    "arti":"mempersiapkan, telah mempersiapkan",
+    "romaji":"junbi shita"
+  },
+  {
+    "kanji":"予約した",
+    "arti":"memesan, telah memesan",
+    "romaji":"yoyaku shita"
+  },
+  {
+    "kanji":"練習した",
+    "arti":"berlatih, telah berlatih",
+    "romaji":"renshuu shita"
+  },
+  {
+    "kanji":"復習した",
+    "arti":"mengulang pelajaran, telah mengulang pelajaran",
+    "romaji":"fukushuu shita"
+  },
+  {
+    "kanji":"説明した",
+    "arti":"menjelaskan, telah menjelaskan",
+    "romaji":"setsumei shita"
+  },
+  {
+    "kanji":"相談した",
+    "arti":"berkonsultasi, telah berkonsultasi",
+    "romaji":"soudan shita"
+  },
+  {
+    "kanji":"連絡した",
+    "arti":"menghubungi, telah menghubungi",
+    "romaji":"renraku shita"
+  },
+  {
+    "kanji":"訪問した",
+    "arti":"mengunjungi, telah mengunjungi",
+    "romaji":"houmon shita"
+  },
+  {
+    "kanji":"見学した",
+    "arti":"mengamati, telah mengamati",
+    "romaji":"kengaku shita"
+  },
+  {
+    "kanji":"過ぎてく",
+    "arti":"melewati, telah melewati",
+    "romaji":"sugiteku"
+  },
+  {
+    "kanji":"戻ってく",
+    "arti":"kembali, telah kembali",
+    "romaji":"modottekuru"
+  },
+  {
+    "kanji":"続けてく",
+    "arti":"melanjutkan, telah melanjutkan",
+    "romaji":"tsuzuketekuru"
+  },
+  {
+    "kanji":"止めてく",
+    "arti":"menghentikan, telah menghentikan",
+    "romaji":"yametekuru"
+  },
+  {
+    "kanji":"忘れてく",
+    "arti":"melupakan, telah melupakan",
+    "romaji":"wasuretekuru"
+  },
+  {
+    "kanji":"時間",
+    "arti":"waktu",
+    "romaji":"jikan"
+  },
+  {
+    "kanji":"今日",
+    "arti":"hari ini",
+    "romaji":"kyou"
+  },
+  {
+    "kanji":"明日",
+    "arti":"besok",
+    "romaji":"ashita"
+  },
+  {
+    "kanji":"昨日",
+    "arti":"kemarin",
+    "romaji":"kinou"
+  },
+  {
+    "kanji":"今週",
+    "arti":"minggu ini",
+    "romaji":"konshuu"
+  },
+  {
+    "kanji":"来週",
+    "arti":"minggu depan",
+    "romaji":"raishuu"
+  },
+  {
+    "kanji":"先週",
+    "arti":"minggu lalu",
+    "romaji":"senshuu"
+  },
+  {
+    "kanji":"今月",
+    "arti":"bulan ini",
+    "romaji":"kongetsu"
+  },
+  {
+    "kanji":"来月",
+    "arti":"bulan depan",
+    "romaji":"raigetsu"
+  },
+  {
+    "kanji":"先月",
+    "arti":"bulan lalu",
+    "romaji":"sengetsu"
+  },
+  {
+    "kanji":"今年",
+    "arti":"tahun ini",
+    "romaji":"kotoshi"
+  },
+  {
+    "kanji":"来年",
+    "arti":"tahun depan",
+    "romaji":"rainen"
+  },
+  {
+    "kanji":"去年",
+    "arti":"tahun lalu",
+    "romaji":"kyonen"
+  },
+  {
+    "kanji":"午前",
+    "arti":"pagi, sebelum tengah hari (AM)",
+    "romaji":"gozen"
+  },
+  {
+    "kanji":"午後",
+    "arti":"siang, sore, setelah tengah hari (PM)",
+    "romaji":"gogo"
+  },
+  {
+    "kanji":"朝",
+    "arti":"pagi",
+    "romaji":"asa"
+  },
+  {
+    "kanji":"昼",
+    "arti":"siang, tengah hari",
+    "romaji":"hiru"
+  },
+  {
+    "kanji":"晩",
+    "arti":"malam (awal malam)",
+    "romaji":"ban"
+  },
+  {
+    "kanji":"夜",
+    "arti":"malam (larut malam)",
+    "romaji":"yoru"
+  },
+  {
+    "kanji":"僕ら",
+    "arti":"kami (untuk pria)",
+    "romaji":"bokura"
+  },
+  {
+    "kanji":"私たち",
+    "arti":"kami (untuk umum)",
+    "romaji":"watashitachi"
+  },
+  {
+    "kanji":"君たち",
+    "arti":"kalian (untuk umum)",
+    "romaji":"kimitachi"
+  },
+  {
+    "kanji":"彼ら",
+    "arti":"mereka (untuk pria)",
+    "romaji":"karera"
+  },
+  {
+    "kanji":"彼女たち",
+    "arti":"mereka (untuk wanita)",
+    "romaji":"kanojotachi"
+  },
+  {
+    "kanji":"友達",
+    "arti":"teman",
+    "romaji":"tomodachi"
+  },
+  {
+    "kanji":"家族",
+    "arti":"keluarga",
+    "romaji":"kazoku"
+  },
+  {
+    "kanji":"両親",
+    "arti":"orang tua",
+    "romaji":"ryoushin"
+  },
+  {
+    "kanji":"父",
+    "arti":"ayah",
+    "romaji":"chichi"
+  },
+  {
+    "kanji":"母",
+    "arti":"ibu",
+    "romaji":"haha"
+  },
+  {
+    "kanji":"兄",
+    "arti":"kakak laki-laki",
+    "romaji":"ani"
+  },
+  {
+    "kanji":"姉",
+    "arti":"kakak perempuan",
+    "romaji":"ane"
+  },
+  {
+    "kanji":"弟",
+    "arti":"adik laki-laki",
+    "romaji":"otouto"
+  },
+  {
+    "kanji":"妹",
+    "arti":"adik perempuan",
+    "romaji":"imouto"
+  },
+  {
+    "kanji":"息子",
+    "arti":"anak laki-laki",
+    "romaji":"musuko"
+  },
+  {
+    "kanji":"娘",
+    "arti":"anak perempuan",
+    "romaji":"musume"
+  },
+  {
+    "kanji":"夫",
+    "arti":"suami",
+    "romaji":"otto"
+  },
+  {
+    "kanji":"妻",
+    "arti":"istri",
+    "romaji":"tsuma"
+  },
+  {
+    "kanji":"子供",
+    "arti":"anak-anak",
+    "romaji":"kodomo"
+  },
+  {
+    "kanji":"先生",
+    "arti":"guru",
+    "romaji":"sensei"
+  },
+  {
+    "kanji":"学生",
+    "arti":"siswa, pelajar, mahasiswa",
+    "romaji":"gakusei"
+  },
+  {
+    "kanji":"学校",
+    "arti":"sekolah",
+    "romaji":"gakkou"
+  },
+  {
+    "kanji":"会社",
+    "arti":"perusahaan",
+    "romaji":"kaisha"
+  },
+  {
+    "kanji":"仕事",
+    "arti":"pekerjaan, pekerjaan",
+    "romaji":"shigoto"
+  },
+  {
+    "kanji":"休み",
+    "arti":"libur, istirahat",
+    "romaji":"yasumi"
+  },
+  {
+    "kanji":"旅行",
+    "arti":"perjalanan, wisata",
+    "romaji":"ryokou"
+  },
+  {
+    "kanji":"買い物",
+    "arti":"belanja",
+    "romaji":"kaimono"
+  },
+  {
+    "kanji":"食事",
+    "arti":"makan (n)",
+    "romaji":"shokuji"
+  },
+  {
+    "kanji":"運動",
+    "arti":"olahraga, latihan fisik",
+    "romaji":"undou"
+  },
+  {
+    "kanji":"散歩",
+    "arti":"jalan-jalan, berjalan kaki",
+    "romaji":"sanpo"
+  },
+  {
+    "kanji":"映画",
+    "arti":"film, bioskop",
+    "romaji":"eiga"
+  },
+  {
+    "kanji":"音楽",
+    "arti":"musik",
+    "romaji":"ongaku"
+  },
+  {
+    "kanji":"本",
+    "arti":"buku",
+    "romaji":"hon"
+  },
+  {
+    "kanji":"新聞",
+    "arti":"koran, surat kabar",
+    "romaji":"shinbun"
+  },
+  {
+    "kanji":"雑誌",
+    "arti":"majalah",
+    "romaji":"zasshi"
+  },
+  {
+    "kanji":"手紙",
+    "arti":"surat (n)",
+    "romaji":"tegami"
+  },
+  {
+    "kanji":"写真",
+    "arti":"foto, gambar",
+    "romaji":"shashin"
+  },
+  {
+    "kanji":"電話",
+    "arti":"telepon",
+    "romaji":"denwa"
+  },
+  {
+    "kanji":"車",
+    "arti":"mobil, kendaraan",
+    "romaji":"kuruma"
+  },
+  {
+    "kanji":"自転車",
+    "arti":"sepeda",
+    "romaji":"jitensha"
+  },
+  {
+    "kanji":"電車",
+    "arti":"kereta api",
+    "romaji":"densha"
+  },
+  {
+    "kanji":"駅",
+    "arti":"stasiun (kereta)",
+    "romaji":"eki"
+  },
+  {
+    "kanji":"空港",
+    "arti":"bandara, airport",
+    "romaji":"kuukou"
+  },
+  {
+    "kanji":"道",
+    "arti":"jalan (n)",
+    "romaji":"michi"
+  },
+  {
+    "kanji":"店",
+    "arti":"toko, warung",
+    "romaji":"mise"
+  },
+  {
+    "kanji":"病院",
+    "arti":"rumah sakit",
+    "romaji":"byouin"
+  },
+  {
+    "kanji":"薬局",
+    "arti":"apotek, toko obat",
+    "romaji":"yakkyoku"
+  },
+  {
+    "kanji":"郵便局",
+    "arti":"kantor pos",
+    "romaji":"yuubinkyoku"
+  },
+  {
+    "kanji":"図書館",
+    "arti":"perpustakaan",
+    "romaji":"toshokan"
+  },
+  {
+    "kanji":"銀行",
+    "arti":"bank",
+    "romaji":"ginkou"
+  },
+  {
+    "kanji":"公園",
+    "arti":"taman (park)",
+    "romaji":"kouen"
+  },
+  {
+    "kanji":"映画館",
+    "arti":"bioskop",
+    "romaji":"eigakan"
+  },
+  {
+    "kanji":"美術館",
+    "arti":"museum seni",
+    "romaji":"bijutsukan"
+  },
+  {
+    "kanji":"動物園",
+    "arti":"kebun binatang",
+    "romaji":"doubutsuen"
+  },
+  {
+    "kanji":"水族館",
+    "arti":"akuarium, kebun binatang air",
+    "romaji":"suizokukan"
+  },
+  {
+    "kanji":"神社",
+    "arti":"kuil Shinto",
+    "romaji":"jinja"
+  },
+  {
+    "kanji":"お寺",
+    "arti":"kuil Buddha",
+    "romaji":"otera"
+  },
+  {
+    "kanji":"教会",
+    "arti":"gereja",
+    "romaji":"kyoukai"
+  },
+  {
+    "kanji":"海",
+    "arti":"laut, pantai",
+    "romaji":"umi"
+  },
+  {
+    "kanji":"山",
+    "arti":"gunung",
+    "romaji":"yama"
+  },
+  {
+    "kanji":"川",
+    "arti":"sungai",
+    "romaji":"kawa"
+  },
+  {
+    "kanji":"湖",
+    "arti":"danau",
+    "romaji":"mizuumi"
+  },
+  {
+    "kanji":"森",
+    "arti":"hutan",
+    "romaji":"mori"
+  },
+  {
+    "kanji":"空",
+    "arti":"langit",
+    "romaji":"sora"
+  },
+  {
+    "kanji":"星",
+    "arti":"bintang",
+    "romaji":"hoshi"
+  },
+  {
+    "kanji":"太陽",
+    "arti":"matahari",
+    "romaji":"taiyou"
+  },
+  {
+    "kanji":"無限",
+    "arti":"tak terbatas, tanpa batas",
+    "romaji":"mugen"
+  },
+  {
+    "kanji":"未来",
+    "arti":"masa depan",
+    "romaji":"mirai"
+  },
+  {
+    "kanji":"過去",
+    "arti":"masa lalu",
+    "romaji":"kako"
+  },
+  {
+    "kanji":"現在",
+    "arti":"masa kini, sekarang",
+    "romaji":"genzai"
+  },
+  {
+    "kanji":"可能性",
+    "arti":"potensi, kemungkinan",
+    "romaji":"kanousei"
+  },
+  {
+    "kanji":"夢",
+    "arti":"mimpi",
+    "romaji":"yume"
+  },
+  {
+    "kanji":"希望",
+    "arti":"harapan",
+    "romaji":"kibou"
+  },
+  {
+    "kanji":"愛",
+    "arti":"cinta",
+    "romaji":"ai"
+  },
+  {
+    "kanji":"友情",
+    "arti":"persahabatan",
+    "romaji":"yuujou"
+  },
+  {
+    "kanji":"平和",
+    "arti":"perdamaian",
+    "romaji":"heiwa"
+  },
+  {
+    "kanji":"自由",
+    "arti":"kebebasan",
+    "romaji":"jiyuu"
+  },
+  {
+    "kanji":"勇気",
+    "arti":"keberanian",
+    "romaji":"yuuki"
+  },
+  {
+    "kanji":"努力",
+    "arti":"usaha, upaya",
+    "romaji":"doryoku"
+  },
+  {
+    "kanji":"成功",
+    "arti":"kesuksesan",
+    "romaji":"seikou"
+  },
+  {
+    "kanji":"失敗",
+    "arti":"kegagalan",
+    "romaji":"shippai"
+  },
+  {
+    "kanji":"挑戦",
+    "arti":"tantangan",
+    "romaji":"chousen"
+  },
+  {
+    "kanji":"冒険",
+    "arti":"petualangan",
+    "romaji":"bouken"
+  },
+  {
+    "kanji":"未来",
+    "arti":"masa depan",
+    "romaji":"mirai"
+  },
+  {
+    "kanji":"過去",
+    "arti":"masa lalu",
+    "romaji":"kako"
+  },
+  {
+    "kanji":"知らない",
+    "arti":"tidak tahu",
+    "romaji":"shiranai"
+  },
+  {
+    "kanji":"分からない",
+    "arti":"tidak mengerti",
+    "romaji":"wakaranai"
+  },
+
+  {
+    "kanji":"行かない",
+    "arti":"tidak pergi",
+    "romaji":"ikanai"
+  },
+  {
+    "kanji":"来ない",
+    "arti":"tidak datang",
+    "romaji":"konai"
+  },
+  {
+    "kanji":"食べない",
+    "arti":"tidak makan",
+    "romaji":"tabenai"
+  },
+  {
+    "kanji":"飲まない",
+    "arti":"tidak minum",
+    "romaji":"nomanai"
+  },
+  {
+    "kanji":"買わない",
+    "arti":"tidak membeli",
+    "romaji":"kawanai"
+  },
+  {
+    "kanji":"見ない",
+    "arti":"tidak melihat, tidak menonton",
+    "romaji":"minai"
+  },
+  {
+    "kanji":"聞かない",
+    "arti":"tidak mendengar, tidak mendengarkan",
+    "romaji":"kikanai"
+  },
+  {
+    "kanji":"話さない",
+    "arti":"tidak berbicara, tidak bicara",
+    "romaji":"hanasanai"
+  },
+  {
+    "kanji":"待たない",
+    "arti":"tidak menunggu",
+    "romaji":"matanai"
+  },
+  {
+    "kanji":"使わない",
+    "arti":"tidak menggunakan",
+    "romaji":"tsukawanai"
+  },
+  {
+    "kanji":"働かない",
+    "arti":"tidak bekerja",
+    "romaji":"hatarakanai"
+  },
+  {
+    "kanji":"遊ばない",
+    "arti":"tidak bermain, tidak bersenang-senang",
+    "romaji":"asobanai"
+  },
+  {
+    "kanji":"寝ない",
+    "arti":"tidak tidur",
+    "romaji":"nenai"
+  },
+  {
+    "kanji":"起きない",
+    "arti":"tidak bangun, tidak terbangun",
+    "romaji":"okinai"
+  },
+  {
+    "kanji":"忘れない",
+    "arti":"tidak lupa",
+    "romaji":"wasurenai"
+  },
+  {
+    "kanji":"覚えない",
+    "arti":"tidak mengingat",
+    "romaji":"oboenai"
+  },
+  {
+    "kanji":"考えない",
+    "arti":"tidak berpikir",
+    "romaji":"kangaenai"
+  },
+  {
+    "kanji":"信じない",
+    "arti":"tidak percaya",
+    "romaji":"shinjina"
+  },
+  {
+    "kanji":"助けない",
+    "arti":"tidak menolong",
+    "romaji":"tasukenai"
+  },
+  {"kanji":"教えない",
+    "arti":"tidak mengajar, tidak memberitahu",
+    "romaji":"oshienai"
+  },
+  {
+    "kanji":"習わない",
+    "arti":"tidak belajar",
+    "romaji":"nawaranai" 
+  },
+  {
+    "kanji":"待っている",
+    "arti":"sedang menunggu",
+    "romaji":"matteiru"
+  },
+  {
+    "kanji":"食べている",
+    "arti":"sedang makan",
+    "romaji":"tabeteiru"
+  },
+  {
+    "kanji":"飲んでいる",
+    "arti":"sedang minum",
+    "romaji":"nondeiru"
+  },
+  {
+    "kanji":"悲しい",
+    "arti":"sedih",
+    "romaji":"kanashii"
+  },
+  {
+    "kanji":"疲れている",
+    "arti":"sedang lelah",
+    "romaji":"tsukareteiru"
+  },
+  {
+    "kanji":"働いている",
+    "arti":"sedang bekerja",
+    "romaji":"hataraiteiru"
+  },
+  {
+    "kanji":"住んでいる",
+    "arti":"tinggal (di suatu tempat)",
+    "romaji":"sundeiru"
+  },
+  {
+    "kanji":"知っている",
+    "arti":"tahu, mengetahui",
+    "romaji":"shitteiru"
+  },
+  {
+    "kanji":"分かっている",
+    "arti":"mengerti, memahami",
+    "romaji":"wakatteiru"
+  },
+  {
+    "kanji":"考えている",
+    "arti":"berpikir",
+    "romaji":"kangaeteiru"
+  },
+  {
+    "kanji":"信じている",
+    "arti":"percaya",
+    "romaji":"shinjiteiru"
+  },
+  {
+    "kanji":"結婚している",
+    "arti":"menikah (status)",
+    "romaji":"kekkon shiteiru"
+  },
+  {
+    "kanji":"離婚している",
+    "arti":"bercerai (status)",
+    "romaji":"rikon shiteiru"
+  },
+  {
+    "kanji":"涙止まらなくて悩んで",
+    "arti":"air mata tak berhenti, bingung...",
+    "romaji":"namida tomaranakute nayande"
+  },
+  {
+    "kanji":"迷ったりするけど",
+    "arti":"kadang bingung, tapi...",
+    "romaji":"mayottari suru kedo"
+  }
+
+]
