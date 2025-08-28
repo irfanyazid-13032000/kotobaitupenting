@@ -1,6 +1,6 @@
 import '../assets/css/card.css';
 import { useEffect, useState } from 'react';
-import kanjiData from '../data/watarirouka_gyu.json';
+import kanjiData from '../data/watarirouka_shounen.json';
 import Score from "./Score";
 import Tamat from "./Tamat";
 import Sumbangan from "./Sumbangan";
